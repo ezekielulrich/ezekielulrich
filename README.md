@@ -11,9 +11,6 @@
 ## About me
 ```java
 public class zkeulr {
-    public static final String UNIVERSITY = "Purdue";
-    public static final String JOB = "Programmer";
-    public static final int AGE = 20;
     public static final String[] LANGUAGES = {
         // In sharply decreasing order of fluency
         "English", // Native
